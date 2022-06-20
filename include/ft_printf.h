@@ -12,7 +12,6 @@ int     ft_hexlen(unsigned int num);
 void    ft_puthex(unsigned int num, const char format);
 int     ft_printhex(unsigned int num, const char format);
 int     ft_ptrlen(long long unsigned int *num);
-//static int	ft_putptr(unsigned long int n, const char *ptr);
 int     ft_printptr(unsigned long int n, const char *ptr);
 int     ft_numlen(unsigned int num);
 char    *ft_unsigned_itoa(unsigned int n);
